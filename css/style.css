@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,700;0,900;1,800&display=swap');
+img{
+  max-width: 100%;
+}
+
+body{
+      margin: 0px;
+      margin-top: 13px;
+      line-height: 29px;
+      font-family: 'Montserrat', sans-serif;
+      background-color: #ece4e4;
+    }
+header{
+ margin: 0;
+ background-color: #47289a;
+}
+
+ul{
+    margin: 0px;
+    padding: 0;
+    text-align: center;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    background-color: #47289a;
+    padding: 3px;
+    /* display: block; */
+}
+ul li a{
+    color: #fbfbfb;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 0px;
+    display: block;
+}
+
+.fullpage{background-image: url(../images/tree.jpg);background-color: #b3cad200;background-position: center;}
+.leyout1{
+          margin: 10px;
+          width: 829px;
+          margin-left: auto;
+          margin-right: auto;
+          color: #192119f0;
+          background-color: #b3cad200;
+          margin-top: 0px;
+          margin-bottom: 0px;
+          text-align: center;
+          line-height: 19px;
+          padding: 20px;
+          padding-top: 242px;
+          padding-bottom: 130px;
+          }
+.leyout2{
+
+margin: 10px;
+
+width: 829px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+color: green;
+
+background-color: #a1bcc700;
+
+margin-top: 0px;
+
+margin-bottom: 0px;
+
+text-align: center;
+
+line-height: 19px;
+
+padding: 20px;
+
+}
+.fullwidth{
+
+background-color: #a7d6f2;
+
+width: 100%;
+
+margin: 0px;
+
+}
+h1{
+      
+margin: 0;
+      
+margin-top: 10px;
+      
+margin-bottom: 10px;
+      
+font-size: 40px;
+      
+text-shadow: 1px 3px 8px #a0b8c3;
+      
+line-height: 1;
+      
+color: #ff00d4;
+      
+}
+    p{
+             /* margin: 19px; */
+             /* margin-top: 20px; */
+             line-height: 20px;
+             margin-left: auto;
+             margin-right: auto;
+             font-size: 18px;
+             align-content: normal;
+             color: #f9fbfd;
+             font-weight: 600;
+    }
+
+    section{
+                background-color: red;
+                background-image: url(../images/tree.jpg);
+                width: 100%;
+                background-blend-mode: hard-light;
+                background-position: left;
+                padding-top: 142px;
+                /* background-position: center; */
+                background-position-y: center;
+                margin: 0px;
+           }
+.container{
+            /* width: 829px; */
+            padding: 31px;
+            margin: 0px;
+            margin-left: auto;
+            margin-right: auto;
+}
+
+.container a{
+  text-align: center;
+}
+.container h2{
+      text-align: center;
+      color: #f5f0f0;
+      text-align: center;
+      color: #f5f0f0;
+      font-weight: 900;
+      font-size: 30px;
+
+}
+
+
+h2 span{
+        color:blue;
+     
+       }
+h2 strong{
+          color: #ec0bc6;
+      
+        }
+i{
+      color:yellow;
+    }
+
+.justify{
+
+          color: #e7ecec;
+          font-weight: 400;
+          line-height: 1.4;
+          width: 829px;
+          }
+
+.view_more{
+  font-weight: 800;
+  background-color: #b568d2;
+  text-align: center;
+  text-decoration: none;
+  /* padding: 10px; */
+  padding: 6px 10px;
+  text-align: center;
+  text-transform: uppercase;
+  display: inline-block;
+  font-size: 14px;
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  /* width: 30px; */
+}
+.view_more: hover{
+  background-color: white;
+  transition-duration: 0.3s;
+}
+
+.container2{
+
+margin: 0px;
+
+margin-top: 0px;
+
+width: 829px;
+
+margin-left: auto;
+
+margin-right: auto;
+}
+.box{
+  margin: 0px;
+  text-align: center;
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+  padding: 20px;
+  padding-top: 0px;
+}
+.box p{
+  
+font-size: 15px;
+  
+color: black;
+  
+font-weight: 500;
+  
+text-align: center;
+  
+padding: 12px;
+}
